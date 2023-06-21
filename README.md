@@ -4,7 +4,7 @@
     <i>
         I'm Kapil<br>
         Current Senior in Highschool | Aspiring CS for Business Applications<br>
-        I like making small projects that solve small problems in my life.<br>
+        Projects that solve small problems in my life.<br>
         Private Repositories &#8594; Private Projects & Personal<br>
     </i><br>
     <a href="https://www.linkedin.com/in/kapiltaspa">
