@@ -5,7 +5,6 @@
         I'm Kapil<br>
         Current Sophomore at UT Austin | Aspiring CS for Business Applications<br>
         Projects that solve small problems in my life.<br>
-        Private Repositories &#8594; Private Projects & Personal<br>
     </i><br>
     <a href="https://www.linkedin.com/in/kapiltaspa">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
