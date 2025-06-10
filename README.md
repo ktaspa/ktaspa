@@ -3,7 +3,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Kapil<br>
-        Current Sophomore at UT Austin | Aspiring CS for Business Applications<br>
+        Current Junior at UT Austin | Aspiring CS for Business Applications<br>
         Projects that solve small problems in my life.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/kapiltaspa">
