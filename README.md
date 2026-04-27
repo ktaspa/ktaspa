@@ -3,8 +3,8 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Kapil<br>
-        Current Junior at UT Austin | Aspiring CS for Business Applications<br>
-        Projects that solve small problems in my life.<br>
+        Data Science major at UT Austin | Aspiring CS for Business Applications<br>
+        Projects that solve real problems in my life.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/kapiltaspa">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
